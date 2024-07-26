@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Glorydon
 - 👀 I’m interested in any remote work
-- 🌱 I’m currently learning data Analysis
+- 🌱 I’m currently learning cloud computing 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
 - 😄 Pronouns: she
